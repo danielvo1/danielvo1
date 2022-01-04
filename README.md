@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome to my Github 
+I am a recent college and coding bootcamp graduate looking for an opportunity to grow and learn as a software developer.
 <!--
 **danielvo1/danielvo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
